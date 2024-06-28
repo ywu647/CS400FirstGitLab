@@ -1,5 +1,8 @@
 /*
  *	Color class
+ *	Name: Eason Wu
+ *	Email: ywu647@wisc.edu
+ *	CS account: yuxinw
  */
 public class Color{
 	private String color;

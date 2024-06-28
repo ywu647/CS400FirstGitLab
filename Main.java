@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ * Name: Eason Wu
+ * Email: ywu647@wisc.edu
+ * CS account: yuxinw
  */
 import java.util.*;
 
